@@ -46,8 +46,8 @@ Modeling:
 Train and evaluate classification models:
 Logistic Regression
 Random Forest
-Gradient Boosting
-Support Vector Machines
+KNN
+Decision Tree
 
 Cross-Validation:
 Perform cross-validation to assess model performance and generalization ability.
